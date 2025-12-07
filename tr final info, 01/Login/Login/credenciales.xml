@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <users>
+        <user>
+            <username>admin</username>
+            <password>12345</password>
+        </user>
+
+        <user>
+            <username>prueba</username>
+            <password>abcd</password>
+        </user>
+    </users>
+</config>
